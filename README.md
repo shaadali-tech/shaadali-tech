@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **alishaad051@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/shubham-singh-b78b72227/](https://www.linkedin.com/in/shubham-singh-b78b72227/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/shaad-ali-8099562a3/](https://www.linkedin.com/in/shaad-ali-8099562a3/)
 
 - ⚡ Fun fact **Go to the ‘Google’ app in your app drawer Tap the button on the top left corner or simply swipe left Select settings Go to voice and open “Ok Google” detection Enable ‘From any screen’ and train your voice model**
 
