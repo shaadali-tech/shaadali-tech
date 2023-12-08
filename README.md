@@ -1,4 +1,4 @@
-![Shaad ALi Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fweb-dev-website-development-website-designing-the-site-helpers-gif-24712882&psig=AOvVaw1NvoB2BIFwXfU5YbHRqgxn&ust=1702127134624000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJD2iu7z_4IDFQAAAAAdAAAAABAD)
+![Shaad ALi Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-vector%2Fhand-drawn-web-developers_12063795.htm&psig=AOvVaw34l8Nga4OiynmwLKTbPnmn&ust=1702127212865000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDr0pT0_4IDFQAAAAAdAAAAABAD)
 <h1 align="center">Hi 👋, I'm Shaad Ali</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
