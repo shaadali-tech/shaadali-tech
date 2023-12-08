@@ -1,4 +1,4 @@
-![Shaad ALi Banner]
+<img align="center" height="250px" src=".github/images/undraw_programming_re_kg9v.svg">
 <h1 align="center">Hi 👋, I'm Shaad Ali</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
