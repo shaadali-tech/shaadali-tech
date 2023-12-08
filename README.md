@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+<"https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" as="image">
 
 <h1 align="center">Hi 👋, I'm Shaad Ali</h1>
 <h3 align="center">A passionate web developer from India</h3>
