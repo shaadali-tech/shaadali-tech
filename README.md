@@ -1,4 +1,4 @@
-https://i.gifer.com/5xDL.gif
+<a https://i.gifer.com/5xDL.gif>
 <h1 align="center">Hi 👋, I'm Shaad Ali</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
