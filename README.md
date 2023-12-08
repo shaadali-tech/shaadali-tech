@@ -1,4 +1,4 @@
-![Shaad ALi Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vectorstock.com%2Froyalty-free-vector%2Fweb-developer-design-vector-6584640&psig=AOvVaw34l8Nga4OiynmwLKTbPnmn&ust=1702127212865000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDr0pT0_4IDFQAAAAAdAAAAABAI)
+![Shaad ALi Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Shaad Ali</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
