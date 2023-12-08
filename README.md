@@ -1,4 +1,4 @@
-![Shaad ALi Banner](href="https://i.gifer.com/5xDL.gif)
+![Shaad ALi Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fweb-dev-website-development-website-designing-the-site-helpers-gif-24712882&psig=AOvVaw1NvoB2BIFwXfU5YbHRqgxn&ust=1702127134624000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJD2iu7z_4IDFQAAAAAdAAAAABAD)
 <h1 align="center">Hi 👋, I'm Shaad Ali</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
