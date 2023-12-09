@@ -6,13 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaadali-tech&label=Profile%20views&color=0e75b6&style=flat" alt="shaadali-tech" /> </p>
 
-- 🔭 I’m currently working on **Library Management System Mobile App**
+- 🔭 I’m currently working on **Developing a porfolio website**
 
-- 🌱 I’m currently learning **Mechine Learning Development Kit**
+- 🌱 I’m currently learning **web development and Ethical hacking**
 
-- 👯 I’m looking to collaborate on **Android Operating Schedule Management System**
-
-- 🤝 I’m looking for help with **An Android Based Mobile Application For Career Guidance**
+- 🤝 I’m looking for help with **Web development For Career Guidance**
 
 - 💬 Ask me about **Web Development**
 
