@@ -1,4 +1,4 @@
-<img src='./banner.gif' />
+<img src='./banner.gif' width="3000" />
 
 <h1 align="center">Hi 👋, I'm Shaad Ali</h1>
 <h3 align="center">A passionate web developer from India</h3>
