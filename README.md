@@ -30,7 +30,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shaadali-tech&limit=5&theme=darcula&combine_all_yearly_contributions=true)
 
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 [![](https://komarev.com/ghpvc/?username=shaadali-tech&icon=7&color=7)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
